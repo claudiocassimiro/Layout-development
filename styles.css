@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(31, 31, 31);
+}
+
+.footer {
+  width: 100%;
+  padding: 80px 60px;
+  color: #fff;
+}
+
+.footer__container-columns {
+  display: flex;
+  margin-bottom: 100px;
+}
+
+.footer__container-column {
+  margin-right: auto;
+}
+
+.footer__image {
+  width: 70px;
+  height: 70px;
+}
+
+.footer__container_hours {
+  margin-right: 80px;
+}
+
+.footer__container_social {
+  margin: 0;
+}
+
+.footer__info-title {
+  margin-top: 0;
+}
+
+.footer__container-items {
+  margin-top: 0;
+  padding-left: 0;
+  list-style: none;
+}
